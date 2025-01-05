@@ -13,4 +13,3 @@
 
 ### 依赖: 
 ```vcpkg install jsoncpp```
-"# invertBits" 
